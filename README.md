@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hola, estoy en proceso de aprender desarollo Web
+
 <!--
 **emauk/emauk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

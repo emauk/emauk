@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **courses**
 
-- 👨‍💻 All of my projects are available at [nothing for now](nothing for now)
+- 👨‍💻 All of my projects are available at (nothing for now)
 
 - 📫 How to reach me **ema.skillet.kn@gmail.com**
 
